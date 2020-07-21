@@ -7,7 +7,7 @@ def add_func(a, var_two):
 
     Args
         a: first variable
-        var_two: second variable
+        var_two: second variablejfj
         this is hper a new branchfgf
     """
     return a + var_two
