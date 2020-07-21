@@ -7,6 +7,6 @@ def add_func(var_one, var_two):
 
     Args
         var_one: first variable of add_funcss
-        var_two: second variable of add_funcs
+        var_two: second variable of add_funcss
     """
     return var_one + var_two
