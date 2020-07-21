@@ -8,6 +8,6 @@ def add_func(a, var_two):
     Args
         a: first variable
         var_two: second variable
-        this is hper a new branch
+        this is hper a new branchfgf
     """
     return a + var_two
